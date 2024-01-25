@@ -4,4 +4,3 @@ print(var)
 print(st)
 print(type(var))
 print(type(st))
-
